@@ -156,7 +156,7 @@ The complete project report is available in the `Documentation` folder.
 
 Demo Link:
 
-PASTE YOUR PEGA DEMO/PREVIEW LINK HERE
+https://www.pega.com/blueprint/BP-2423896/summary
 
 ## Author
 
